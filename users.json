@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"curso_node"},
+{"type":"table","name":"users","database":"curso_node","data":
+[
+{"id":"4","nome":"Mateus","email":"matheus_santin@gmail.com","password_hash":"$2a$08$aVl9kbBy2aY1YALExcLoKeBufTdvrir2AnjJPjZpiC2FUdD0Ooo1K","createdAt":"2024-09-18 18:42:08","updatedAt":"2024-09-18 18:42:08"},
+{"id":"7","nome":"Jorge","email":"jorge_santin@gmail.com","password_hash":"$2a$08$Y5DJ6ViK\/dd2EeVnYJchjeRXqZN3sqZjjQzV8TaZApMOV3kKYzxuy","createdAt":"2024-09-18 19:23:22","updatedAt":"2024-09-18 19:23:22"}
+]
+}
+]
