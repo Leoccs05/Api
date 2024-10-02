@@ -3,7 +3,8 @@
 {"id":"4","nome":"Mateus",
 "email":"matheus_santin@gmail.com","password_hash":"$2a$08$aVl9kbBy2aY1YALExcLoKeBufTdvrir2AnjJPjZpiC2FUdD0Ooo1K",
 "Fotos":[
-    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Farticle-11652045%2FDrake-shows-2-2M-diamond-pendent-chain-appears-belonged-Pharrell-Williams.html&psig=AOvVaw20hRW0dXrt1rAD7g4okGYH&ust=1727978689730000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCzprGk8IgDFQAAAAAdAAAAABAE"
+    {"url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Farticle-11652045%2FDrake-shows-2-2M-diamond-pendent-chain-appears-belonged-Pharrell-Williams.html&psig=AOvVaw20hRW0dXrt1rAD7g4okGYH&ust=1727978689730000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCzprGk8IgDFQAAAAAdAAAAABAE"}
+    
 ],
 "createdAt":"2024-09-18 18:42:08","updatedAt":"2024-09-18 18:42:08"},
 
